@@ -1,6 +1,6 @@
 🛍️ Contoso Sales Performance Dashboard
 
-📌 Project Title / Headline
+ Project Title / Headline
 
 📊 Contoso Sales Performance & Profitability Analysis Dashboard
 
@@ -50,7 +50,7 @@ The dataset enables analysis of profitability, sales growth, regional performanc
 
 4. Features / Highlights
 
-📌 Business Problem
+ Business Problem
 
 Retail businesses generate massive amounts of transactional data daily. Without proper visualization and analysis, it becomes difficult to answer important business questions such as:
 
@@ -110,7 +110,7 @@ This improves dashboard interactivity and enables detailed analysis.
 
 3. Net Profit Running Total by Date Hierarchy (Combo Chart)
 
-📌 Displays running net profit trends over months, quarters, and years.
+ Displays running net profit trends over months, quarters, and years.
 
  Insights:
 
@@ -121,7 +121,7 @@ This improves dashboard interactivity and enables detailed analysis.
 
 4. Net Profit Running Total by Quarter (Bar Chart)
 
-📌 Shows cumulative net profit progression across quarters.
+ Shows cumulative net profit progression across quarters.
 
  Insights:
 
@@ -131,7 +131,7 @@ This improves dashboard interactivity and enables detailed analysis.
 
 5. Year Over Year Net Profit by Brand (Waterfall Chart)
 
-📌 Visualizes profit contribution by different brands.
+ Visualizes profit contribution by different brands.
 
 Insights:
 
@@ -142,7 +142,7 @@ Insights:
 
 6. Geography and Store Details (Table Visualization)
 
-📌 Displays detailed region-wise and store-level performance metrics.
+ Displays detailed region-wise and store-level performance metrics.
 
 Includes:
 
@@ -163,7 +163,7 @@ Insights:
 
 📈 Business Impact & Insights
 
-📌 Key Insights from the Dashboard
+ Key Insights from the Dashboard
 
 * Certain countries and stores contribute significantly higher profits.
 * Discounts and returns directly impact overall profitability.
@@ -172,7 +172,7 @@ Insights:
 * Geographical analysis highlights strong-performing international markets.
 
 
-📌 Business Benefits
+ Business Benefits
 
 📍 Profitability Monitoring
 
@@ -202,13 +202,13 @@ Understand seasonal and yearly sales performance patterns.
 <img width="100%" alt="Contoso Sales Dashboard" src="https://github.com/AnishaSailoni/Centoso-Sales-Report/blob/main/Snapshot%20of%20Centoso%20Sales%20Report.png">
 
 
-6. 📌 Author
+6.  Author
 
 Name: Anisha Sailoni
 Tool Used: Microsoft Power BI
 
 
-7. 📌 How to Use the Dashboard
+7.  How to Use the Dashboard
 
 1. Open the `.pbix` file using Power BI Desktop.
 2. Use slicers on the left panel to filter data dynamically.
