@@ -199,7 +199,7 @@ Understand seasonal and yearly sales performance patterns.
 
 📷 Dashboard Preview
 
-<img width="100%" alt="Contoso Sales Dashboard" src="">
+<img width="100%" alt="Contoso Sales Dashboard" src="https://github.com/AnishaSailoni/Centoso-Sales-Report/blob/main/Snapshot%20of%20Centoso%20Sales%20Report.png">
 
 
 6. 📌 Author
